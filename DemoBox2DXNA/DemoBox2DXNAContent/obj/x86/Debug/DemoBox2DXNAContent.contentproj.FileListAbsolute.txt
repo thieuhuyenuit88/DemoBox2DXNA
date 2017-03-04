@@ -1,0 +1,3 @@
+F:\BOX2D XNA\DemoBox2DXNA\DemoBox2DXNA\DemoBox2DXNA\DemoBox2DXNAContent\obj\x86\Debug\ResolveAssemblyReference.cache
+M:\BOX2D XNA\DemoBox2DXNA\DemoBox2DXNA\DemoBox2DXNA\DemoBox2DXNAContent\obj\x86\Debug\DemoBox2DXNAContent.contentprojResolveAssemblyReference.cache
+E:\BOX2D XNA\DemoBox2DXNA\DemoBox2DXNA\DemoBox2DXNA\DemoBox2DXNAContent\obj\x86\Debug\DemoBox2DXNAContent.contentprojResolveAssemblyReference.cache
